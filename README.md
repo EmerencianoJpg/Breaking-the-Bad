@@ -1,9 +1,7 @@
 # Breaking-the-Bad
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=gdscript&logoColor=white)
 
-
-## Objetivo do Projeto
-
-O jogo foi construído como um trabalho para uma disciplina de ciência da computação. A atividade original era a construção de um jogo baseado em clássicos do Atari, com uso da Engine Gráfica Unity3D e adaptações para o formato 3D. O projeto final deveria deixar claros os aspectos que foram alterados da versão original, como texturas, áudios, jogabilidade e câmeras. Este jogo foi adaptado para a Godot Engine, utilizando a linguagem GDScript.
+O jogo foi construído como um trabalho para a disciplina de computação gráfica da faculdade de ciência da computação. A atividade original era a construção de um jogo baseado em clássicos do Atari, com uso de uma Engine Gráfica e adaptações para o formato 3D. O projeto final deveria deixar claros os aspectos que foram alterados da versão original, como texturas, áudios, jogabilidade e câmeras. Este jogo foi adaptado para a Godot Engine, utilizando a linguagem GDScript.
 
 ## Funcionalidades
 
@@ -18,11 +16,13 @@ O jogo foi construído como um trabalho para uma disciplina de ciência da compu
 
 ## Como Instalar e Rodar
 
-1.  **Baixe o Projeto:** Faça o download dos arquivos do projeto do repositório.
-2.  **Instale a Godot Engine:** Caso não tenha, baixe e instale a Godot Engine na versão compatível com o projeto.
-3.  **Abra o Projeto:** Abra a Godot Engine e use a opção "Importar" ou "Abrir" para carregar a pasta do projeto.
-4.  **Execute o Jogo:** Pressione o botão de "Play" para executar a cena principal do jogo.
+1.  **Baixe o Projeto:** Faça o download do executavel do jogo no link abaixo.
+2.  **Execute o Jogo:** Pressione o botão de "Play" para executar a cena principal do jogo.
 
-## Observações Adicionais
+## Link para Download
 
-Este projeto foi desenvolvido como um trabalho acadêmico. A adaptação para a Godot Engine e a linguagem GDScript foi uma escolha de desenvolvimento, divergindo da sugestão inicial do projeto de usar Unity3D.
+Você pode baixar a versão executável do jogo neste link:
+
+**https://porboporbo.itch.io/breaking-the-bad**
+
+
