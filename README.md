@@ -17,7 +17,7 @@ O jogo foi construído como um trabalho para a disciplina de computação gráfi
 ## Como Instalar e Rodar
 
 1.  **Baixe o Projeto:** Faça o download do executavel do jogo no link abaixo.
-2.  **Execute o Jogo:** Pressione o botão de "Play" para executar a cena principal do jogo.
+2.  **Execute o Jogo:** Execute o arquivo baixado do jogo.
 
 ## Link para Download
 
